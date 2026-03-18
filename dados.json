@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "HTML5 & CSS3",
+        "status": "Dominado",
+        "icone": "🌐"
+    },
+    {
+        "nome": "JavaScript (Front-end)",
+        "status": "Avançando",
+        "icone": "⚡"
+    },
+    {
+        "nome": "Node.js (Back-end)",
+        "status": "Em aprendizado",
+        "icone": "🐧"
+    },
+    {
+        "nome" :"git & GitHub" ,
+        "status" : "Dominado", 
+        "icone" : "🔧"
+    }
+]
